@@ -1,0 +1,7 @@
+{
+  "mongoURI": "mongodb+srv://slayer12321:eWIhzvY2IeZSp0e1@project-0tk73.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysevrettoken",
+  "githubClientId": "988ec934b50bb0e40669",
+  "githubSecret": "642700009d2ac8870bd597aa0d6f026816c081fa"
+}
+
